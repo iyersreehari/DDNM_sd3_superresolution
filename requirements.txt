@@ -1,0 +1,9 @@
+tqdm==4.67.1
+opencv-python==4.11.0.86
+numpy==1.26.4
+torch==2.6.0
+torchvision==0.21.0
+huggingface-hub==0.35.3
+diffusers==0.35.1
+peft==0.17.0
+bitsandbytes==0.48.1
